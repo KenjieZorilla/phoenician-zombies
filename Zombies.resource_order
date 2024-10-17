@@ -1,0 +1,14 @@
+{
+  "FolderOrderSettings":[
+    {"name":"group1","order":11,"path":"folders/group1.yy",},
+    {"name":"Objects","order":9,"path":"folders/Objects.yy",},
+    {"name":"Rooms","order":10,"path":"folders/Rooms.yy",},
+    {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"objBullet","order":2,"path":"objects/objBullet/objBullet.yy",},
+    {"name":"objGun","order":1,"path":"objects/objGun/objGun.yy",},
+    {"name":"sprAK","order":1,"path":"sprites/sprAK/sprAK.yy",},
+    {"name":"sprBullet","order":2,"path":"sprites/sprBullet/sprBullet.yy",},
+  ],
+}
