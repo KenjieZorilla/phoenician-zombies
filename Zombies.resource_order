@@ -1,9 +1,9 @@
 {
   "FolderOrderSettings":[
     {"name":"group1","order":11,"path":"folders/group1.yy",},
-    {"name":"Sequences","order":12,"path":"folders/Sequences.yy",},
     {"name":"Objects","order":9,"path":"folders/Objects.yy",},
     {"name":"Rooms","order":10,"path":"folders/Rooms.yy",},
+    {"name":"Sequences","order":12,"path":"folders/Sequences.yy",},
     {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
   ],
   "ResourceOrderSettings":[
@@ -11,13 +11,15 @@
     {"name":"objDoor","order":3,"path":"objects/objDoor/objDoor.yy",},
     {"name":"objGun","order":1,"path":"objects/objGun/objGun.yy",},
     {"name":"TestRoom","order":1,"path":"rooms/TestRoom/TestRoom.yy",},
+    {"name":"TestRoom2","order":2,"path":"rooms/TestRoom2/TestRoom2.yy",},
     {"name":"Transition","order":1,"path":"scripts/Transition/Transition.yy",},
     {"name":"sqFadeIn","order":1,"path":"sequences/sqFadeIn/sqFadeIn.yy",},
     {"name":"sqFadeOut","order":2,"path":"sequences/sqFadeOut/sqFadeOut.yy",},
     {"name":"sprAK","order":1,"path":"sprites/sprAK/sprAK.yy",},
     {"name":"sprBullet","order":2,"path":"sprites/sprBullet/sprBullet.yy",},
     {"name":"sprDoor","order":3,"path":"sprites/sprDoor/sprDoor.yy",},
-    {"name":"Sprite6","order":5,"path":"sprites/Sprite6/Sprite6.yy",},
     {"name":"sprPixel","order":4,"path":"sprites/sprPixel/sprPixel.yy",},
+    {"name":"sprTestBackground","order":5,"path":"sprites/sprTestBackground/sprTestBackground.yy",},
+    {"name":"sprTestBackground2","order":6,"path":"sprites/sprTestBackground2/sprTestBackground2.yy",},
   ],
 }
